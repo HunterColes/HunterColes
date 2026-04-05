@@ -33,40 +33,51 @@ interests:
 
 ### 🔤 Languages
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=cpp,c,py,java,kotlin,html" />
-</a>
+<table>
+  <tr>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=cpp" width="48"/><br><sub>C++</sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=c" width="48"/><br><sub>C</sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=py" width="48"/><br><sub>Python</sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=java" width="48"/><br><sub>Java</sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=kotlin" width="48"/><br><sub>Kotlin</sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=html" width="48"/><br><sub>HTML</sub></td>
+  </tr>
+</table>
 
 ### 🤖 Robotics & Navigation
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=ros,opencv" />
-</a>
-<br/>
-<p>
-  <img src="https://img.shields.io/badge/ORB--SLAM3-00d4ff?style=flat-square&logoColor=white" height="24" />
-  <img src="https://img.shields.io/badge/VIO-Visual_Inertial_Odometry-7c3aed?style=flat-square&logoColor=white" height="24" />
-  <img src="https://img.shields.io/badge/Isaac_Sim-76B900?style=flat-square&logo=nvidia&logoColor=white" height="24" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=ros" width="48"/><br><sub>ROS / ROS2</sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=opencv" width="48"/><br><sub>OpenCV</sub></td>
+    <td align="center" width="80"><img src="https://img.shields.io/badge/-ORB--SLAM3-00d4ff?style=for-the-badge&logoColor=white" height="48"/><br><sub>ORB-SLAM3</sub></td>
+    <td align="center" width="80"><img src="https://img.shields.io/badge/-VIO-7c3aed?style=for-the-badge&logoColor=white" height="48"/><br><sub>Visual Inertial Odometry</sub></td>
+  </tr>
+</table>
 
 ### 🧠 Edge AI & Embedded
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=pytorch" />
-</a>
-<br/>
-<p>
-  <img src="https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=flat-square&logo=nvidia&logoColor=white" height="24" />
-  <img src="https://img.shields.io/badge/L4T-76B900?style=flat-square&logo=nvidia&logoColor=white" height="24" />
-  <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" height="24" />
-  <img src="https://img.shields.io/badge/ARM-0091BD?style=flat-square&logo=arm&logoColor=white" height="24" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=pytorch" width="48"/><br><sub>PyTorch</sub></td>
+    <td align="center" width="80"><img src="https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" height="48"/><br><sub>Jetson / CUDA</sub></td>
+    <td align="center" width="80"><img src="https://img.shields.io/badge/Isaac_Sim-76B900?style=for-the-badge&logo=nvidia&logoColor=white" height="48"/><br><sub>Isaac Sim</sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=ubuntu" width="48"/><br><sub>Ubuntu</sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=raspberrypi" width="48"/><br><sub>Raspberry Pi</sub></td>
+  </tr>
+</table>
 
 ### 🔧 Tools & Infrastructure
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=docker,git,linux,qt,androidstudio" />
-</a>
+<table>
+  <tr>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=docker" width="48"/><br><sub>Docker</sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=git" width="48"/><br><sub>Git</sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=linux" width="48"/><br><sub>Linux</sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=qt" width="48"/><br><sub>Qt</sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=androidstudio" width="48"/><br><sub>Android Studio</sub></td>
+  </tr>
+</table>
 
 ---
 
