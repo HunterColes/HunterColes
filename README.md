@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hunter-coles-a803ba207/"><img src="https://img.shields.io/badge/LinkedIn-Hunter%20Coles-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <!-- Personal site link goes here once it is public -->
+  <a href="https://fatline.win"><img src="https://img.shields.io/badge/Website-fatline.win-1282A2?style=flat-square&logo=googlechrome&logoColor=white" alt="Website"></a>
 </p>
 
 <p align="center">
@@ -37,23 +37,3 @@
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white" alt="Android Studio">
 </p>
 
-### Projects
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://github.com/HunterColes/PokerPayout"><b>PokerPayout</b></a><br>Free Android app for home poker nights: blinds clock, payouts to the cent. Offline, no ads.</td>
-    <td width="50%"><a href="https://github.com/HunterColes/Splatman"><b>Splatman</b></a><br>Gaussian splatting 3D scanner for Android, entirely on the device.</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/HunterColes/nebula_deck"><b>NebulaDeck</b></a><br>An animated kiosk launcher for the Raspberry Pi.</td>
-    <td><a href="https://github.com/HunterColes/KaChess"><b>KaChess</b></a><br>A chess game and engine, from scratch.</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/HunterColes/Pay2Poker"><b>Pay2Poker</b></a><br>Python desktop app for poker tournament payouts, with a food pool and a bounty pool.</td>
-    <td><a href="https://github.com/HunterColes/RSS_Alexa"><b>RSS to Alexa</b></a><br>Small Python script that plays an alarm on an Echo when an RSS entry matches.</td>
-  </tr>
-</table>
-
-<p align="center">
-  <img height="150" src="https://streak-stats.demolab.com?user=HunterColes&theme=github-dark-blue&hide_border=true&background=0d1117" alt="GitHub streak">
-</p>
